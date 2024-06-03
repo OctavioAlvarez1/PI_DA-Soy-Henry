@@ -58,4 +58,11 @@ Para este dashboard, <strong>se generaron tres KPI'S</strong>:
 
 <br>
 Las siguientes son imágenes del dashboard:
-
+<br>
+<p align="center">
+  <img src="https://github.com/OctavioAlvarez1/PI_DA-Soy-Henry/blob/main/Images/dashboard1.png" alt="Imagen" >
+</p>
+<br>
+<p align="center">
+  <img src="https://github.com/OctavioAlvarez1/PI_DA-Soy-Henry/blob/main/Images/dashboard2.png" alt="Imagen" >
+</p>
