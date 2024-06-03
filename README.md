@@ -37,3 +37,11 @@ Este proyecto se centra en el análisis de datos de los siniestros viales en la 
 <p>En este gráfico podemos observar que el <strong>rango etario con mayor cantidad de víctimas es el que va de 20 a 29 años</strong>, seguido del rango que va de 30 a 39 años. Podemos ver que las víctimas de los accidentes son jóvenes en su mayoría. </p>
 
 <p >¿Cómo se explica que la franja etaria que va desde los 20 a los 39 años sea la más preponderante en cuanto a víctimas de siniestros viales? Bueno, podemos analizar que <strong>esta es la franja etaria donde más productividad tiene una persona y es suceptible de percibir mayor cantidad de ingreso</strong>, y, por ende, tiene la disponibilidad económica suficiente para hacerse de un vehículo.</p>
+
+<br>
+<p align="center">
+  <img src="https://github.com/OctavioAlvarez1/PI_DA-Soy-Henry/blob/main/Images/tipo_victima.png" alt="Imagen">
+</p>
+<p>Como podemos observar en el gráfico, <strong>las motos y los peatones son los dos elementos que más accidentes viales han tenido a lo largo de los años</strong>, seguidos de los autos. </p>
+
+<p >Si observamos con detenimiento este gráfico, vemos que <strong>el vehículo que más víctimas fatales produce es la moto.</strong> Si analizamos los datos del Ministerio de Transporte, vemos que el 70% de los hombres usan casco, mientras que el 60% de las mujeres lo hace. Este es un factor que incide notablemente en la cantidad de víctimas de accidentes de tránsito por moto, ya que si el 100% de los conductores y los caompañantes utilizara el casco, se reduciría significativamente el número de víctimas, ya que está comprobado que la utilización del casco reduce en un 85% la probabilidad de sufrir lesiones graves. </p>
