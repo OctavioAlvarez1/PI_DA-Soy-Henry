@@ -2,3 +2,4 @@
 <h1 align="center">DATA SCIENCE - PROYECTO INDIVIDUAL Nº2</h1>
 <h1 align="center">Siniestros viales</h1>
 
+![Imagen](https://github.com/OctavioAlvarez1/PI_DA-Soy-Henry/blob/main/Images/siniestro.png)
