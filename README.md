@@ -68,7 +68,6 @@ Las siguientes son imágenes del dashboard:
 </p>
 <br>
 <h1>Conclusiones</h1>
-<h3>Conclusiones finales</h3>
 
 <p style="font-size:18px;">En base a los datos recopilados y a lo expuesto en los diferentes gráficos con sus respectivos análisis podemos llegar a las siguientes conclusiones: </p>
 
