@@ -6,3 +6,5 @@
   <img src="https://github.com/OctavioAlvarez1/PI_DA-Soy-Henry/blob/main/Images/siniestro.png" alt="Imagen">
 </p>
 
+<h1>Herramientas</h1>
+Este proyecto de <strong>Data Analytics</strong> fue creado utilizando librerías de <strong>Python</strong> para el EDA (Análisis exploratorio de los datos) y <strong>Power Bi</strong>  para la creación del dashboard.
