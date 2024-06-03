@@ -31,7 +31,7 @@ Este proyecto se centra en el análisis de datos de los siniestros viales en la 
 <p>Otro detalle que podemos observar es que <strong>el año 2020 fue el año con menos cantidad de accidentes de tránsito</strong>, seguido del año 2021. Si observamos cuidadosamente, este año fue el de la pandemia COVID-19, entonces es muy probable que, al haber habido un confinamiento y poca circulación en las calles, disminuyera la cantidad de accidentes de tránsito. </p>
 <br>
 <p align="center">
-  <img src="https://github.com/OctavioAlvarez1/PI_DA-Soy-Henry/blob/main/Images/victimas_edad.png" alt="Imagen">
+  <img src="https://github.com/OctavioAlvarez1/PI_DA-Soy-Henry/blob/main/Images/victimas_edad.png" alt="Imagen" width="800" height="400">
 </p>
 
 <p>En este gráfico podemos observar que el <strong>rango etario con mayor cantidad de víctimas es el que va de 20 a 29 años</strong>, seguido del rango que va de 30 a 39 años. Podemos ver que las víctimas de los accidentes son jóvenes en su mayoría. </p>
@@ -40,7 +40,7 @@ Este proyecto se centra en el análisis de datos de los siniestros viales en la 
 
 <br>
 <p align="center">
-  <img src="https://github.com/OctavioAlvarez1/PI_DA-Soy-Henry/blob/main/Images/tipo_victima.png" alt="Imagen">
+  <img src="https://github.com/OctavioAlvarez1/PI_DA-Soy-Henry/blob/main/Images/tipo_victima.png" alt="Imagen" width="800" height="400">
 </p>
 <p>Como podemos observar en el gráfico, <strong>las motos y los peatones son los dos elementos que más accidentes viales han tenido a lo largo de los años</strong>, seguidos de los autos. </p>
 
