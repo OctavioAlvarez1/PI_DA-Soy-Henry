@@ -24,7 +24,7 @@ Este proyecto se centra en el análisis de datos de los siniestros viales en la 
 <p>Entre los gráficos que se destacan podemos analizar los siguientes:</p>
 
 <p align="center">
-  <img src="https://github.com/OctavioAlvarez1/PI_DA-Soy-Henry/blob/main/Images/victimas_año.png" alt="Imagen">
+  <img src="https://github.com/OctavioAlvarez1/PI_DA-Soy-Henry/blob/main/Images/victimas_año.png" alt="Imagen" width="600" height="400">
 </p>
 <p>Al analizar el gráfico podemos observar que <strong>el año 2018 fue el año con mayor cantidad de víctimas</strong> de fallecimiento por siniestros viales, seguido del año 2016. </p>
 
