@@ -17,6 +17,7 @@ Este proyecto de <strong>Data Analytics</strong> fue creado utilizando librería
 <h1>Objetivos</h1>
 Este proyecto se centra en el análisis de datos de los siniestros viales en la Ciudad de Buenos Aires, Argentina, en los años 2016-2021. El <strong>objetivo principales brindar una comprensión detallada de los incidentes viales ocurridos en la ciudad, sus características, tendencias y posibles factores contribuyentes</strong> , encontrar información valiosa para poder comprender los patrones de accidentes viales, identificar las zonas de riesgo y <strong>proponer medidas para mejorar la seguridad vial en la ciudad.</strong> 
 <br>
+<br>
 <h1>Análisis Exploratorio de Datos (EDA)</h1>
 <strong>Se realizó un análisis exploratorio de los datos</strong> para comprender la distribución, características y tendencias de los siniestros viales en la Ciudad de Buenos Aires, <strong>revisando los valores faltantes, datos duplicados y outliers.</strong> Esto incluyó un <strong>análisis con los graficos</strong> correspondientes al tipo de variable que se tenia.
 
