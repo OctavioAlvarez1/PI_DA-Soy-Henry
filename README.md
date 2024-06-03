@@ -45,3 +45,17 @@ Este proyecto se centra en el análisis de datos de los siniestros viales en la 
 <p>Como podemos observar en el gráfico, <strong>las motos y los peatones son los dos elementos que más accidentes viales han tenido a lo largo de los años</strong>, seguidos de los autos. </p>
 
 <p >Si observamos con detenimiento este gráfico, vemos que <strong>el vehículo que más víctimas fatales produce es la moto.</strong> Si analizamos los datos del Ministerio de Transporte, vemos que el 70% de los hombres usan casco, mientras que el 60% de las mujeres lo hace. Este es un factor que incide notablemente en la cantidad de víctimas de accidentes de tránsito por moto, ya que si el 100% de los conductores y los caompañantes utilizara el casco, se reduciría significativamente el número de víctimas, ya que está comprobado que la utilización del casco reduce en un 85% la probabilidad de sufrir lesiones graves. </p>
+
+<br>
+<h1>Dashboard</h1>
+En base a los datos analizados, <strong>se procedió a elaborar un dashboard interactivo en Power BI</strong> para mostrar los datos y sus conclusiones.
+<br>
+
+Para este dashboard, <strong>se generaron tres KPI'S</strong>:
+  * Reducción del 10% de la tasa de homicidios del semestre anterior.
+  * Reducción del 7% de la cantidad de accidentes en moto del último año.
+  * Reducción del 10% de la cantidad de accidentes en auto del último año
+
+<br>
+Las siguientes son imágenes del dashboard:
+
