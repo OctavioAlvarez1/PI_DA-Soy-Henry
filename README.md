@@ -30,3 +30,10 @@ Este proyecto se centra en el análisis de datos de los siniestros viales en la 
 
 <p>Otro detalle que podemos observar es que <strong>el año 2020 fue el año con menos cantidad de accidentes de tránsito</strong>, seguido del año 2021. Si observamos cuidadosamente, este año fue el de la pandemia COVID-19, entonces es muy probable que, al haber habido un confinamiento y poca circulación en las calles, disminuyera la cantidad de accidentes de tránsito. </p>
 
+<p align="center">
+  <img src="https://github.com/OctavioAlvarez1/PI_DA-Soy-Henry/blob/main/Images/victimas_edad.png" alt="Imagen">
+</p>
+
+<p>En este gráfico podemos observar que el <strong>rango etario con mayor cantidad de víctimas es el que va de 20 a 29 años</strong>, seguido del rango que va de 30 a 39 años. Podemos ver que las víctimas de los accidentes son jóvenes en su mayoría. </p>
+
+<p >¿Cómo se explica que la franja etaria que va desde los 20 a los 39 años sea la más preponderante en cuanto a víctimas de siniestros viales? Bueno, podemos analizar que <strong>esta es la franja etaria donde más productividad tiene una persona y es suceptible de percibir mayor cantidad de ingreso</strong>, y, por ende, tiene la disponibilidad económica suficiente para hacerse de un vehículo.</p>
