@@ -20,7 +20,7 @@ Este proyecto se centra en el análisis de datos de los siniestros viales en la 
 <br>
 <h1>Análisis Exploratorio de Datos (EDA)</h1>
 <strong>Se realizó un análisis exploratorio de los datos</strong> para comprender la distribución, características y tendencias de los siniestros viales en la Ciudad de Buenos Aires, <strong>revisando los valores faltantes, datos duplicados y outliers.</strong> Esto incluyó un <strong>análisis con los graficos</strong> correspondientes al tipo de variable que se tenia.
-
+<br>
 <p>Entre los gráficos que se destacan podemos analizar los siguientes:</p>
 
 <p align="center">
