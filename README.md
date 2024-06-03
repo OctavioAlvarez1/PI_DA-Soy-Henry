@@ -66,3 +66,22 @@ Las siguientes son imágenes del dashboard:
 <p align="center">
   <img src="https://github.com/OctavioAlvarez1/PI_DA-Soy-Henry/blob/main/Images/dashboard2.png" alt="Imagen" >
 </p>
+<br>
+<h1>Conclusiones</h1>
+<h3>Conclusiones finales</h3>
+
+<p style="font-size:18px;">En base a los datos recopilados y a lo expuesto en los diferentes gráficos con sus respectivos análisis podemos llegar a las siguientes conclusiones: </p>
+
+<ul>
+  <li>De los años analizados, el 2018 fue el año con mayor cantidad de siniestros viales, mientras que el año 2020, que fue el año del confinamiento por COVID -19, fue el que menos accidentes produjo.</li>
+  <br>
+  <li>Los hombres son suceptibles a causar y a ser víctimas de más cantidad de siniestros viales por el simple hecho de que conducen mayor cantidad de vehículos que las mujeres. Además las mujeres utilizan mucho más las medidas preventivas de accidentes, tales como los cinturones de seguridad, que los hombres.</li>
+  <br>
+  <li>La franja etaria que va desde los 20 a los 39 años es la que más cantidad de víctimas por accidentes viales tiene. Esto se puede deber a que es el momento de mayor productividad de las personas y por ende, su capacidad de adquirir e utilizar vehículos es mucho mayor que cuando se acerca a la edad jubilatoria.</li>
+  <br>
+  <li>Los autos y los vehículos de carga son los tipos de rodado que mayor cantidad de víctimas se cobran en los siniestros viales. Esto puede deberse al volúmen de los mismos, que al colisionar con otros vehículos de menor volúmen o con los peatones desencadenan un descenlace fatal.</li>
+  <br>
+  <li>La avenida es el tipo de calle que más siniestros viales genera. Esto puede deberse a que en una avenida se transita más velozmente que en la calle, y además contiene mayor volúmen de autos que una calle común y corriente, por lo tanto aumenta la probabilidad de accidentes.</li>
+  <br>
+  <li>Entre las 6 y las 7 de la mañana es el horario donde mayor cantidad de accidentes viales se producen. Este es el horario que coincide con el cierre de mucho bares por ejemplo, lo cual puede hacer que un conductor alcoholizado produzca un accidente. Además, en períodos como otoño-invierno es un horario que todavía es de noche, por lo tanto hay menos visibilidad e incluso puede haber neblina que sea un factor que ayude a producir los accidentes de tránsito.</li>
+</ul>
