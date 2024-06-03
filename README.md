@@ -20,12 +20,12 @@ Este proyecto se centra en el análisis de datos de los siniestros viales en la 
 <h1>Análisis Exploratorio de Datos (EDA)</h1>
 <strong>Se realizó un análisis exploratorio de los datos</strong> para comprender la distribución, características y tendencias de los siniestros viales en la Ciudad de Buenos Aires, <strong>revisando los valores faltantes, datos duplicados y outliers.</strong> Esto incluyó un <strong>análisis con los graficos</strong> correspondientes al tipo de variable que se tenia.
 
-Entre los gráficos que se destacan podemos ver los siguientes:
+<p>Entre los gráficos que se destacan podemos analizar los siguientes:</p>
 
 <p align="center">
   <img src="https://github.com/OctavioAlvarez1/PI_DA-Soy-Henry/blob/main/Images/victimas_año.png" alt="Imagen">
 </p>
-<p>Al analizar el gráfico podemos observar que el año 2018 fue el año con mayor cantidad de víctimas de fallecimiento por siniestros viales, seguido del año 2016. </p>
+<p>Al analizar el gráfico podemos observar que <strong>el año 2018 fue el año con mayor cantidad de víctimas</strong> de fallecimiento por siniestros viales, seguido del año 2016. </p>
 
-<p>Otro detalle que podemos observar es que el año 2020 fue el año con menos cantidad de accidentes de tránsito, seguido del año 2021. Si observamos cuidadosamente, este año fue el de la pandemia COVID-19, entonces es muy probable que, al haber habido un confinamiento y poca circulación en las calles, disminuyera la cantidad de accidentes de tránsito. </p>
+<p>Otro detalle que podemos observar es que <strong>el año 2020 fue el año con menos cantidad de accidentes de tránsito</strong>, seguido del año 2021. Si observamos cuidadosamente, este año fue el de la pandemia COVID-19, entonces es muy probable que, al haber habido un confinamiento y poca circulación en las calles, disminuyera la cantidad de accidentes de tránsito. </p>
 
