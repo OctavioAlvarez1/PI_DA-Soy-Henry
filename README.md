@@ -84,3 +84,7 @@ Las siguientes son imágenes del dashboard:
   <br>
   <li>Entre las 6 y las 7 de la mañana es el horario donde mayor cantidad de accidentes viales se producen. Este es el horario que coincide con el cierre de mucho bares por ejemplo, lo cual puede hacer que un conductor alcoholizado produzca un accidente. Además, en períodos como otoño-invierno es un horario que todavía es de noche, por lo tanto hay menos visibilidad e incluso puede haber neblina que sea un factor que ayude a producir los accidentes de tránsito.</li>
 </ul>
+
+<br>
+<h1> Fuentes citadas </h1>
+Ministerio de Transporte de la Nación: https://www.argentina.gob.ar/sites/default/files/2018/12/ansv_informe-con-perspectiva-de-genero-en-argentina-marzo-2023.pdf
