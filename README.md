@@ -29,7 +29,7 @@ Este proyecto se centra en el análisis de datos de los siniestros viales en la 
 <p>Al analizar el gráfico podemos observar que <strong>el año 2018 fue el año con mayor cantidad de víctimas</strong> de fallecimiento por siniestros viales, seguido del año 2016. </p>
 
 <p>Otro detalle que podemos observar es que <strong>el año 2020 fue el año con menos cantidad de accidentes de tránsito</strong>, seguido del año 2021. Si observamos cuidadosamente, este año fue el de la pandemia COVID-19, entonces es muy probable que, al haber habido un confinamiento y poca circulación en las calles, disminuyera la cantidad de accidentes de tránsito. </p>
-
+<br>
 <p align="center">
   <img src="https://github.com/OctavioAlvarez1/PI_DA-Soy-Henry/blob/main/Images/victimas_edad.png" alt="Imagen">
 </p>
